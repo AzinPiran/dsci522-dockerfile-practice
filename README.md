@@ -1,2 +1,6 @@
 # dsci522-dockerfile-practice
-# ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+
+# License
+
+Software licensed under the [MIT License](https://spdx.org/licenses/MIT.html). See the [license file](LICENSE.md) for more information.
